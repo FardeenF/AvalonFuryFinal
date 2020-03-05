@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Andy\Desktop\Fury of the Dead\HelloWorld\Game.cpp(544,88): warning C4244:  'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Andy\Desktop\Fury of the Dead\HelloWorld\Game.cpp(544,80): warning C4244:  'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Andy\Desktop\Fury of the Dead\HelloWorld\Game.cpp(610,19): warning C4553:  '==': result of expression not used; did you intend '='?
+C:\Users\Andy\Desktop\Fury of the Dead\HelloWorld\Game.cpp(640,19): warning C4553:  '==': result of expression not used; did you intend '='?
+  HelloWorld.vcxproj -> C:\Users\Andy\Desktop\Fury of the Dead\x64\Debug\HelloWorld.exe
